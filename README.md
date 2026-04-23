@@ -5,7 +5,7 @@ Download monthly gold prices (DKK per gram) from Nordisk Guld and render **only*
 ## Usage
 
 ```bash
-python gold_svg.py --start 2020-01-01 --end 2026-04-01 --output gold.svg
+python gold_svg.py --start 2012-01-01 --end 2026-05-09 -o gold_2024.svg
 ```
 
 Optional:
